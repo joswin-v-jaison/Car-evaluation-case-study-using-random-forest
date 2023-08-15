@@ -1,1 +1,2 @@
 # Car-evaluation-case-study-using-random-forest
+This case study revolves around predicting car classes using the Random Forest algorithm. By leveraging the power of Random Forest, the study aims to accurately classify car types based on various attributes. Notably, the feature importance functionality is utilized to identify and eliminate irrelevant features, streamlining the model for optimal performance. Additionally, compelling visualizations are employed to offer enhanced insights into the data
